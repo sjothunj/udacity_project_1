@@ -1,0 +1,63 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+
+body {
+	font: 300, "Lucida Grande", sans-serif;
+	color: #666;
+	}
+
+/* Section for main page title */
+.title-main {
+	font-size: 48px;
+	margin-top: 48px;
+	}
+
+/* Section for left portion of page (left hand 5-column) */
+/* border surrounding the image (coffee cup) */
+.img-border {
+	margin: 0 0 10px 0;
+	}
+
+/* Title for the bullet list */
+.bullet-title {
+	color: #f70;
+	font-weight: 600;
+	font-size: 24px;
+	padding: 5px 10px 20px 25px;
+	}
+/* Text for the bullet list */
+.bullet-text {
+	font-size: 16px;
+	line-height: 32px;
+	padding: 0 0 18px 65px;
+	}
+/* Box surrounding bullet list */
+.text-box-border {
+	border: thin solid;
+	border-color: #ccc;
+	padding: 0 10px 12px 0;
+	}
+.text-box-margin {
+	margin: 32px 0 10px 0;
+	}
+
+/* Section for main body of page (right hand 7-column) */
+/* Heading of the main text*/
+.title-sub {
+	color: #f70;
+	font-weight: 600;
+	font-size: 24px;
+	padding: 0 0 25px 0;
+	margin: 0 0 0 0;
+	}
+/* Main body of text */
+.text-main {
+	font-size: 16px;
+	line-height: 32px;
+	padding: 4px 0 0 0;
+	margin: 0 0 30px 0;
+	}
